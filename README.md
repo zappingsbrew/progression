@@ -1,4 +1,4 @@
-# Progress
+# Progression
 
 Rainmeter player skin
 
@@ -23,3 +23,6 @@ Manual install: Download the [latest release](https://github.com/reisir/progress
 
 - Add "Properties" window 
     - Access by clicking title or right click > properties
+
+# Credits
+Original [Progress](https://github.com/reisir/progress) by [@reisir](https://github.com/reisir)
